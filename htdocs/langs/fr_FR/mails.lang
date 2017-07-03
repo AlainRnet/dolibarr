@@ -75,10 +75,18 @@ NbSelected=Nb sélectionné
 NbIgnored=Nb ignoré
 NbSent=Nb envoyé
 ConfirmUnvalidateEmailing=Êtes-vous sûr de vouloir repasser l'emailing <b>%s</b> au statut brouillon ?
+MailingModuleDescContactCompanies=Contacts de tiers (prospects, clients, fournisseurs…)
+MailingModuleDescDolibarrUsers=Utilisateurs de Dolibarr
+MailingModuleDescFundationMembers=Adhérents
+MailingModuleDescEmailsFromFile=Emails issus d'un fichier texte (email;nom;prenom;autre)
+MailingModuleDescEmailsFromUser=Emails saisis manuellement (email;nom;prenom;autre)
+MailingModuleDescContactsCategories=Tiers (par catégorie)
+MailingModuleDescDolibarrContractsLinesExpired=Tiers avec lignes de contrats de services expirées
+MailingModuleDescContactsByCompanyCategory=Contacts de tiers (par catégorie de tiers)
+MailingModuleDescContactsByCategory=Contacts de tiers par catégorie de contact
+MailingModuleDescMembersCategories=Adhérents (par catégorie)
+MailingModuleDescContactsByFunction=Contacts de tiers (par poste/fonction)
 MailingModuleDescContactsWithThirdpartyFilter=Contact avec filtres des tiers
-MailingModuleDescContactsByCompanyCategory=Contacts/adresses par tags/catégorie de tiers
-MailingModuleDescContactsByCategory=Contacts par tags/catégories
-MailingModuleDescContactsByFunction=Contacts par poste/fonction
 
 # Libelle des modules de liste de destinataires mailing
 LineInFile=Ligne %s du fichier
